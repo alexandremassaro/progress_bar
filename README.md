@@ -1,6 +1,6 @@
 # Progress Bar
 
-`progress_bar` is a Rust library for displaying progress bars in the terminal. It uses `console_utils` for terminal interactions and can be used to track the progress of long-running operations.
+`progress_bar` is a Rust library for displaying progress bars in the terminal. It uses [`console_utils`](https://github.com/alexandremassaro/console_utils) for terminal interactions and can be used to track the progress of long-running operations.
 
 ## Features
 
@@ -10,7 +10,7 @@
 
 ## Dependencies
 
-- `console_utils` for terminal interactions
+-  [`console_utils`](https://github.com/alexandremassaro/console_utils) for terminal interactions
 
 ## Usage
 
